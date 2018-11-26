@@ -203,8 +203,8 @@ for (var id in clothes) {
     }
 };
 
-    /*console.log(id+":","Name:",clothes[id].Name, "Price:",clothes[id].Price," € ", "Color:", clothes[id].Color, "Size:",clothes[id].Size);
-    };*/
+    console.log(id+":","Name:",clothes[id].Name, "Price:",clothes[id].Price," € ", "Color:", clothes[id].Color, "Size:",clothes[id].Size);
+    };
     console.log("---------------------")
 /*var Article == prompt('Enter article', '');
 for(var id  in clothes){
